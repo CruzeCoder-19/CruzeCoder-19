@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Manabendra Bisoyi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Aspiring+Full-Stack+Web+Developer;Building+with+React+%26+Node.js;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Building+with+React+NEXT+%26+Node.js;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
 ---
@@ -76,7 +76,7 @@ My current focus is strengthening my full-stack skills — from crafting pixel-p
 
 ### 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manabendra-bisoyi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manabendra-bisoyi-cruzedev/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CruzeCoder-19)
 
 ---
