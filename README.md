@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Manabendra Bisoyi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Building+with+React+NEXT+%26+Node.js;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=555&color=22C55E&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Building+with+React,+NEXT+%26+Node.js;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
 ---
